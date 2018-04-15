@@ -1,0 +1,18 @@
+body{
+  background-image: url("https://t1.pixers.pics/img-1fb6f67c/quadriptych-canvas-prints-funny-seamless-pattern-with-cute-cartoon-brown-bear-dressed-in-dark-shirt-riding-bike-on-white-background-hand-drawn-vector-illustration-in-retro-style-for-wallpaper-fabric-print-wrapping-paper.jpg?H4sIAAAAAAAAA3VOW27DIBC8DpYc72IDXvsA-c0RLLAhpfEDAWnTnr5YVT-r1WhnR5qdgeeetLMw2z3bCJtfltWC82u50hht8t-WSSlrrMairgyxsOPDxjkegV1kW59QSCeq8VMX46bjg73lHNIIkLom-Ff5VtacYN4StMgVoALZS0U0E-ek-skdMX89LoQvwibs9xrPqf5KCMRanOE5-o2VNkfJyew93Cv4J-uXQ3HB9Qa8BxTABUiC7hSn6433KLiQ1E3GkOCL6fQwGLWga13HuR70YCwaatumBP0AbMTN7C0BAAA=");
+}
+
+nav{
+  text-align: center;
+  font-size: 30px;
+  font-family: fantasy;
+  color: #F41414;
+  font-weight: bold;
+  text-shadow: 3px 1px black;
+}
+
+#main-map {
+  height: 400px;
+  width: 500px;
+  margin: auto;
+}
